@@ -1,1 +1,3 @@
 Making some changes!
+
+Testing git commit through VSCode
